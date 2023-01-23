@@ -13,14 +13,16 @@ You will need to have Python and Arcade installed on your machine.
 ### Installing
 
 Clone the repository to your local machine:
+```
 git clone https://github.com/SamehGbuibia/Connect4.git
-
+```
 
 ## Running the game
 
 Navigate to the project directory and run the following command:
+```
 python main.py
-
+```
 ## Game Features
 
 - Single player mode with AI opponent
