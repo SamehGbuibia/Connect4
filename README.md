@@ -15,14 +15,11 @@ You will need to have Python and Arcade installed on your machine.
 Clone the repository to your local machine:
 git clone https://github.com/SamehGbuibia/Connect4.git
 
-Copy code
 
 ## Running the game
 
 Navigate to the project directory and run the following command:
 python main.py
-
-Copy code
 
 ## Game Features
 
